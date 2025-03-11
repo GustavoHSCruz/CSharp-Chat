@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleChat": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
